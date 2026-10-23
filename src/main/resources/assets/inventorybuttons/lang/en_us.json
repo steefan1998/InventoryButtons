@@ -1,0 +1,23 @@
+{
+  "inventorybuttons.button.day": "Set time to day",
+  "inventorybuttons.button.night": "Set time to night",
+  "inventorybuttons.button.clear": "Clear weather",
+  "inventorybuttons.button.rain": "Rain",
+  "inventorybuttons.button.thunder": "Thunderstorm",
+  "inventorybuttons.button.snow": "Snow (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "Snowstorm (WeatherStory)",
+  "inventorybuttons.button.hail": "Hail (WeatherStory)",
+  "inventorybuttons.button.fog": "Fog (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "Sandstorm (WeatherStory)",
+  "inventorybuttons.button.natural": "Natural weather (WeatherStory)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "Show buttons",
+  "inventorybuttons.config.offset_x": "Horizontal position",
+  "inventorybuttons.config.offset_y": "Vertical position",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "Use WeatherStory weather",
+  "inventorybuttons.config.weatherstory.intensity": "Weather intensity (%)",
+  "inventorybuttons.config.weatherstory.duration": "Weather duration (seconds)",
+  "inventorybuttons.config.weatherstory.radius": "Weather radius (blocks)"
+}

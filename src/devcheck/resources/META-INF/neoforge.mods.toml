@@ -1,0 +1,9 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+# Dev-only test driver, never part of the release jar. Run: ./gradlew runDevCheck
+[[mods]]
+modId = "inventorybuttons_devcheck"
+version = "1.0.0"
+displayName = "Inventory Buttons Dev Check"

@@ -1,0 +1,23 @@
+{
+  "inventorybuttons.button.day": "Tijd naar dag",
+  "inventorybuttons.button.night": "Tijd naar nacht",
+  "inventorybuttons.button.clear": "Helder weer",
+  "inventorybuttons.button.rain": "Regen",
+  "inventorybuttons.button.thunder": "Onweer",
+  "inventorybuttons.button.snow": "Sneeuw (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "Sneeuwstorm (WeatherStory)",
+  "inventorybuttons.button.hail": "Hagel (WeatherStory)",
+  "inventorybuttons.button.fog": "Mist (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "Zandstorm (WeatherStory)",
+  "inventorybuttons.button.natural": "Natuurlijk weer (WeatherStory)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "Knoppen tonen",
+  "inventorybuttons.config.offset_x": "Horizontale positie",
+  "inventorybuttons.config.offset_y": "Verticale positie",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "WeatherStory-weer gebruiken",
+  "inventorybuttons.config.weatherstory.intensity": "Weersterkte (%)",
+  "inventorybuttons.config.weatherstory.duration": "Weerduur (seconden)",
+  "inventorybuttons.config.weatherstory.radius": "Weerstraal (blokken)"
+}
