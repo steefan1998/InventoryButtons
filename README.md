@@ -5,7 +5,7 @@ A client-side NeoForge mod for Minecraft **26.1.2** that adds quick buttons to t
 - **Gamemode:** survival, creative, adventure and spectator (the current one has a gold ring)
 - **Time:** day and night
 - **Weather:** clear, rain and thunderstorm
-- **[WeatherStory](https://modrinth.com/mod/weatherstory) (optional):** snow, snowstorm, hail, fog, sandstorm and "natural weather"
+- **WeatherStory (optional):** snow, snowstorm, hail, fog, sandstorm and "natural weather". Note: WeatherStory is not on Modrinth.
 - **[JEI](https://modrinth.com/mod/jei) (optional):** JEI's bookmark and ingredient lists move out of the way of the buttons
 
 ![Buttons in the creative inventory](docs/creative.png)
