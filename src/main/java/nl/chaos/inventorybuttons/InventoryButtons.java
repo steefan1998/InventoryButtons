@@ -93,9 +93,9 @@ public final class InventoryButtons {
             )
             : List.of();
 
-        // GS Mod: daily reward and missions. Every player may use these, so they are never greyed out;
+        // GS Mod: Daily Rewards (mod id gsmod_daily): daily reward and missions. Every player may use these, so they are never greyed out;
         // the server checks whether a reward is actually due.
-        List<QuickButton> daily = ButtonConfig.GSMOD.get() && ModList.get().isLoaded("gsmod")
+        List<QuickButton> daily = ButtonConfig.GSMOD.get() && ModList.get().isLoaded("gsmod_daily")
             ? List.of(command("daily", "daily claim"), command("missions", "daily menu"))
             : List.of();
 

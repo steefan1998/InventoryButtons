@@ -55,7 +55,7 @@ public final class ButtonConfig {
         builder.pop();
 
         GSMOD = builder
-            .comment("Show the daily reward and daily missions buttons when GS Mod is installed.")
+            .comment("Show the daily reward and daily missions buttons when GS Mod: Daily Rewards is installed.")
             .translation("inventorybuttons.config.gsmod")
             .define("gsmodButtons", true);
 
