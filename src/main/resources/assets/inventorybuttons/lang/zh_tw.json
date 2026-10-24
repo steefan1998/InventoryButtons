@@ -1,0 +1,26 @@
+{
+  "inventorybuttons.button.day": "設為白天",
+  "inventorybuttons.button.night": "設為夜晚",
+  "inventorybuttons.button.clear": "晴天",
+  "inventorybuttons.button.rain": "雨天",
+  "inventorybuttons.button.thunder": "雷雨",
+  "inventorybuttons.button.snow": "雪 (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "暴風雪 (WeatherStory)",
+  "inventorybuttons.button.hail": "冰雹 (WeatherStory)",
+  "inventorybuttons.button.fog": "霧 (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "沙塵暴 (WeatherStory)",
+  "inventorybuttons.button.natural": "自然天氣 (WeatherStory)",
+  "inventorybuttons.button.daily": "領取每日獎勵 (GS Mod)",
+  "inventorybuttons.button.missions": "每日獎勵與任務 (GS Mod)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "顯示按鈕",
+  "inventorybuttons.config.offset_x": "水平位置",
+  "inventorybuttons.config.offset_y": "垂直位置",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "使用 WeatherStory 天氣",
+  "inventorybuttons.config.weatherstory.intensity": "天氣強度 (%)",
+  "inventorybuttons.config.weatherstory.duration": "天氣持續時間 (秒)",
+  "inventorybuttons.config.weatherstory.radius": "天氣範圍 (方塊)",
+  "inventorybuttons.config.gsmod": "GS Mod 每日按鈕"
+}

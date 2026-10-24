@@ -21,6 +21,10 @@ With WeatherStory installed, the weather buttons use its local weather override 
 
 With GS Mod installed, the daily buttons send `/daily claim` and `/daily menu`. Every player may use them, so they are never greyed out; GS Mod's server decides whether a reward is due.
 
+## Languages
+
+English, Nederlands, Deutsch, Français, Español, Italiano, Português (Brasil), Polski, Русский, Українська, Türkçe, Svenska, Čeština, 日本語, 한국어, 简体中文 and 繁體中文. Gamemode names use Minecraft's own translations.
+
 ## Settings
 
 In the Mods menu (or `config/inventorybuttons-client.toml`):

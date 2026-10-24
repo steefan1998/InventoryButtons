@@ -1,0 +1,26 @@
+{
+  "inventorybuttons.button.day": "Встановити день",
+  "inventorybuttons.button.night": "Встановити ніч",
+  "inventorybuttons.button.clear": "Ясна погода",
+  "inventorybuttons.button.rain": "Дощ",
+  "inventorybuttons.button.thunder": "Гроза",
+  "inventorybuttons.button.snow": "Сніг (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "Хуртовина (WeatherStory)",
+  "inventorybuttons.button.hail": "Град (WeatherStory)",
+  "inventorybuttons.button.fog": "Туман (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "Піщана буря (WeatherStory)",
+  "inventorybuttons.button.natural": "Природна погода (WeatherStory)",
+  "inventorybuttons.button.daily": "Отримати щоденну нагороду (GS Mod)",
+  "inventorybuttons.button.missions": "Щоденні нагороди та завдання (GS Mod)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "Показувати кнопки",
+  "inventorybuttons.config.offset_x": "Положення по горизонталі",
+  "inventorybuttons.config.offset_y": "Положення по вертикалі",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "Використовувати погоду WeatherStory",
+  "inventorybuttons.config.weatherstory.intensity": "Сила погоди (%)",
+  "inventorybuttons.config.weatherstory.duration": "Тривалість погоди (секунди)",
+  "inventorybuttons.config.weatherstory.radius": "Радіус погоди (блоки)",
+  "inventorybuttons.config.gsmod": "Щоденні кнопки GS Mod"
+}

@@ -1,0 +1,26 @@
+{
+  "inventorybuttons.button.day": "낮으로 설정",
+  "inventorybuttons.button.night": "밤으로 설정",
+  "inventorybuttons.button.clear": "맑음",
+  "inventorybuttons.button.rain": "비",
+  "inventorybuttons.button.thunder": "뇌우",
+  "inventorybuttons.button.snow": "눈 (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "눈보라 (WeatherStory)",
+  "inventorybuttons.button.hail": "우박 (WeatherStory)",
+  "inventorybuttons.button.fog": "안개 (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "모래폭풍 (WeatherStory)",
+  "inventorybuttons.button.natural": "자연 날씨 (WeatherStory)",
+  "inventorybuttons.button.daily": "일일 보상 받기 (GS Mod)",
+  "inventorybuttons.button.missions": "일일 보상 및 미션 (GS Mod)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "버튼 표시",
+  "inventorybuttons.config.offset_x": "가로 위치",
+  "inventorybuttons.config.offset_y": "세로 위치",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "WeatherStory 날씨 사용",
+  "inventorybuttons.config.weatherstory.intensity": "날씨 강도 (%)",
+  "inventorybuttons.config.weatherstory.duration": "날씨 지속 시간 (초)",
+  "inventorybuttons.config.weatherstory.radius": "날씨 반경 (블록)",
+  "inventorybuttons.config.gsmod": "GS Mod 일일 버튼"
+}

@@ -1,0 +1,26 @@
+{
+  "inventorybuttons.button.day": "Zamanı gündüz yap",
+  "inventorybuttons.button.night": "Zamanı gece yap",
+  "inventorybuttons.button.clear": "Açık hava",
+  "inventorybuttons.button.rain": "Yağmur",
+  "inventorybuttons.button.thunder": "Fırtına",
+  "inventorybuttons.button.snow": "Kar (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "Kar fırtınası (WeatherStory)",
+  "inventorybuttons.button.hail": "Dolu (WeatherStory)",
+  "inventorybuttons.button.fog": "Sis (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "Kum fırtınası (WeatherStory)",
+  "inventorybuttons.button.natural": "Doğal hava (WeatherStory)",
+  "inventorybuttons.button.daily": "Günlük ödülü al (GS Mod)",
+  "inventorybuttons.button.missions": "Günlük ödüller ve görevler (GS Mod)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "Düğmeleri göster",
+  "inventorybuttons.config.offset_x": "Yatay konum",
+  "inventorybuttons.config.offset_y": "Dikey konum",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "WeatherStory havasını kullan",
+  "inventorybuttons.config.weatherstory.intensity": "Hava şiddeti (%)",
+  "inventorybuttons.config.weatherstory.duration": "Hava süresi (saniye)",
+  "inventorybuttons.config.weatherstory.radius": "Hava yarıçapı (blok)",
+  "inventorybuttons.config.gsmod": "GS Mod günlük düğmeleri"
+}

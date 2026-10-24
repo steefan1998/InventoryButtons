@@ -1,0 +1,26 @@
+{
+  "inventorybuttons.button.day": "Nastavit den",
+  "inventorybuttons.button.night": "Nastavit noc",
+  "inventorybuttons.button.clear": "Jasno",
+  "inventorybuttons.button.rain": "Déšť",
+  "inventorybuttons.button.thunder": "Bouřka",
+  "inventorybuttons.button.snow": "Sníh (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "Sněhová bouře (WeatherStory)",
+  "inventorybuttons.button.hail": "Kroupy (WeatherStory)",
+  "inventorybuttons.button.fog": "Mlha (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "Písečná bouře (WeatherStory)",
+  "inventorybuttons.button.natural": "Přirozené počasí (WeatherStory)",
+  "inventorybuttons.button.daily": "Vyzvednout denní odměnu (GS Mod)",
+  "inventorybuttons.button.missions": "Denní odměny a mise (GS Mod)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "Zobrazit tlačítka",
+  "inventorybuttons.config.offset_x": "Vodorovná pozice",
+  "inventorybuttons.config.offset_y": "Svislá pozice",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "Používat počasí WeatherStory",
+  "inventorybuttons.config.weatherstory.intensity": "Síla počasí (%)",
+  "inventorybuttons.config.weatherstory.duration": "Délka počasí (sekundy)",
+  "inventorybuttons.config.weatherstory.radius": "Poloměr počasí (bloky)",
+  "inventorybuttons.config.gsmod": "Denní tlačítka GS Mod"
+}

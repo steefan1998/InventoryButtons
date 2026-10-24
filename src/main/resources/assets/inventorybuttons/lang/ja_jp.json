@@ -1,0 +1,26 @@
+{
+  "inventorybuttons.button.day": "昼にする",
+  "inventorybuttons.button.night": "夜にする",
+  "inventorybuttons.button.clear": "晴れ",
+  "inventorybuttons.button.rain": "雨",
+  "inventorybuttons.button.thunder": "雷雨",
+  "inventorybuttons.button.snow": "雪 (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "吹雪 (WeatherStory)",
+  "inventorybuttons.button.hail": "雹 (WeatherStory)",
+  "inventorybuttons.button.fog": "霧 (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "砂嵐 (WeatherStory)",
+  "inventorybuttons.button.natural": "自然な天候 (WeatherStory)",
+  "inventorybuttons.button.daily": "デイリー報酬を受け取る (GS Mod)",
+  "inventorybuttons.button.missions": "デイリー報酬とミッション (GS Mod)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "ボタンを表示",
+  "inventorybuttons.config.offset_x": "横位置",
+  "inventorybuttons.config.offset_y": "縦位置",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "WeatherStoryの天候を使用",
+  "inventorybuttons.config.weatherstory.intensity": "天候の強さ (%)",
+  "inventorybuttons.config.weatherstory.duration": "天候の持続時間 (秒)",
+  "inventorybuttons.config.weatherstory.radius": "天候の範囲 (ブロック)",
+  "inventorybuttons.config.gsmod": "GS Modのデイリーボタン"
+}

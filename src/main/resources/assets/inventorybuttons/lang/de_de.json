@@ -1,0 +1,26 @@
+{
+  "inventorybuttons.button.day": "Zeit auf Tag setzen",
+  "inventorybuttons.button.night": "Zeit auf Nacht setzen",
+  "inventorybuttons.button.clear": "Klares Wetter",
+  "inventorybuttons.button.rain": "Regen",
+  "inventorybuttons.button.thunder": "Gewitter",
+  "inventorybuttons.button.snow": "Schnee (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "Schneesturm (WeatherStory)",
+  "inventorybuttons.button.hail": "Hagel (WeatherStory)",
+  "inventorybuttons.button.fog": "Nebel (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "Sandsturm (WeatherStory)",
+  "inventorybuttons.button.natural": "Natürliches Wetter (WeatherStory)",
+  "inventorybuttons.button.daily": "Tägliche Belohnung abholen (GS Mod)",
+  "inventorybuttons.button.missions": "Tägliche Belohnungen und Missionen (GS Mod)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "Knöpfe anzeigen",
+  "inventorybuttons.config.offset_x": "Horizontale Position",
+  "inventorybuttons.config.offset_y": "Vertikale Position",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "WeatherStory-Wetter verwenden",
+  "inventorybuttons.config.weatherstory.intensity": "Wetterstärke (%)",
+  "inventorybuttons.config.weatherstory.duration": "Wetterdauer (Sekunden)",
+  "inventorybuttons.config.weatherstory.radius": "Wetterradius (Blöcke)",
+  "inventorybuttons.config.gsmod": "GS Mod Tagesknöpfe"
+}

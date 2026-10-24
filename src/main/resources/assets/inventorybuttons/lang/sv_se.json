@@ -1,0 +1,26 @@
+{
+  "inventorybuttons.button.day": "Sätt tiden till dag",
+  "inventorybuttons.button.night": "Sätt tiden till natt",
+  "inventorybuttons.button.clear": "Klart väder",
+  "inventorybuttons.button.rain": "Regn",
+  "inventorybuttons.button.thunder": "Åskväder",
+  "inventorybuttons.button.snow": "Snö (WeatherStory)",
+  "inventorybuttons.button.snowstorm": "Snöstorm (WeatherStory)",
+  "inventorybuttons.button.hail": "Hagel (WeatherStory)",
+  "inventorybuttons.button.fog": "Dimma (WeatherStory)",
+  "inventorybuttons.button.sandstorm": "Sandstorm (WeatherStory)",
+  "inventorybuttons.button.natural": "Naturligt väder (WeatherStory)",
+  "inventorybuttons.button.daily": "Hämta daglig belöning (GS Mod)",
+  "inventorybuttons.button.missions": "Dagliga belöningar och uppdrag (GS Mod)",
+
+  "inventorybuttons.configuration.title": "Inventory Buttons",
+  "inventorybuttons.config.enabled": "Visa knappar",
+  "inventorybuttons.config.offset_x": "Horisontell position",
+  "inventorybuttons.config.offset_y": "Vertikal position",
+  "inventorybuttons.config.weatherstory": "WeatherStory",
+  "inventorybuttons.config.weatherstory.enabled": "Använd WeatherStorys väder",
+  "inventorybuttons.config.weatherstory.intensity": "Väderstyrka (%)",
+  "inventorybuttons.config.weatherstory.duration": "Väderlängd (sekunder)",
+  "inventorybuttons.config.weatherstory.radius": "Väderradie (block)",
+  "inventorybuttons.config.gsmod": "GS Mod dagliga knappar"
+}
