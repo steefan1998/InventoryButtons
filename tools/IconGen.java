@@ -232,6 +232,42 @@ public final class IconGen {
             "................",
             "................"));
 
+        // GS Mod: daily reward (gift box) and daily missions (clipboard)
+        art.put("daily", grid(
+            "................",
+            "....yy....yy....",
+            "...y..y..y..y...",
+            "....yyyyyyyy....",
+            "..rrrrryyrrrrr..",
+            "..rrrrryyrrrrr..",
+            "..oooooyyooooo..",
+            "...rrrryyrrrr...",
+            "...rrrryyrrrr...",
+            "...rrrryyrrrr...",
+            "...rrrryyrrrr...",
+            "...rrrryyrrrr...",
+            "...rrrryyrrrr...",
+            "...oooooooooo...",
+            "................",
+            "................"));
+        art.put("missions", grid(
+            "................",
+            "......dddd......",
+            "...hhhdggdhhh...",
+            "...hpppppppph...",
+            "...hpnpPPPPph...",
+            "...hnnpppppph...",
+            "...hpppppppph...",
+            "...hpnpPPPPph...",
+            "...hnnpppppph...",
+            "...hpppppppph...",
+            "...hpPpPPPPph...",
+            "...hpppppppph...",
+            "...hpppppppph...",
+            "...hhhhhhhhhh...",
+            "................",
+            "................"));
+
         for (Map.Entry<String, BufferedImage> entry : art.entrySet()) {
             write(outline(entry.getValue()), new File(icons, entry.getKey() + ".png"));
         }

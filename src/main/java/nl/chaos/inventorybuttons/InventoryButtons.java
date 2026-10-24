@@ -93,12 +93,24 @@ public final class InventoryButtons {
             )
             : List.of();
 
-        List<List<QuickButton>> groups = extraWeather.isEmpty() ? List.of(gameModes, world) : List.of(gameModes, world, extraWeather);
+        // GS Mod: daily reward and missions. Every player may use these, so they are never greyed out;
+        // the server checks whether a reward is actually due.
+        List<QuickButton> daily = ButtonConfig.GSMOD.get() && ModList.get().isLoaded("gsmod")
+            ? List.of(command("daily", "daily claim"), command("missions", "daily menu"))
+            : List.of();
+
+        List<List<QuickButton>> groups = new java.util.ArrayList<>(List.of(gameModes, world));
+        if (!extraWeather.isEmpty()) {
+            groups.add(extraWeather);
+        }
+        if (!daily.isEmpty()) {
+            groups.add(daily);
+        }
         ButtonPanel panel = new ButtonPanel();
         event.addListener(panel);
         for (List<QuickButton> group : groups) {
             for (QuickButton button : group) {
-                button.active = allowed;
+                button.active = group == daily || allowed;
                 event.addListener(button);
             }
         }

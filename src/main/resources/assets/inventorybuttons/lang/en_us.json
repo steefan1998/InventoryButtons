@@ -10,6 +10,8 @@
   "inventorybuttons.button.fog": "Fog (WeatherStory)",
   "inventorybuttons.button.sandstorm": "Sandstorm (WeatherStory)",
   "inventorybuttons.button.natural": "Natural weather (WeatherStory)",
+  "inventorybuttons.button.daily": "Claim daily reward (GS Mod)",
+  "inventorybuttons.button.missions": "Daily rewards and missions (GS Mod)",
 
   "inventorybuttons.configuration.title": "Inventory Buttons",
   "inventorybuttons.config.enabled": "Show buttons",
@@ -19,5 +21,6 @@
   "inventorybuttons.config.weatherstory.enabled": "Use WeatherStory weather",
   "inventorybuttons.config.weatherstory.intensity": "Weather intensity (%)",
   "inventorybuttons.config.weatherstory.duration": "Weather duration (seconds)",
-  "inventorybuttons.config.weatherstory.radius": "Weather radius (blocks)"
+  "inventorybuttons.config.weatherstory.radius": "Weather radius (blocks)",
+  "inventorybuttons.config.gsmod": "GS Mod daily buttons"
 }

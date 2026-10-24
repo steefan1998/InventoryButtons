@@ -10,6 +10,8 @@
   "inventorybuttons.button.fog": "Mist (WeatherStory)",
   "inventorybuttons.button.sandstorm": "Zandstorm (WeatherStory)",
   "inventorybuttons.button.natural": "Natuurlijk weer (WeatherStory)",
+  "inventorybuttons.button.daily": "Dagelijkse beloning ophalen (GS Mod)",
+  "inventorybuttons.button.missions": "Dagelijkse beloningen en missies (GS Mod)",
 
   "inventorybuttons.configuration.title": "Inventory Buttons",
   "inventorybuttons.config.enabled": "Knoppen tonen",
@@ -19,5 +21,6 @@
   "inventorybuttons.config.weatherstory.enabled": "WeatherStory-weer gebruiken",
   "inventorybuttons.config.weatherstory.intensity": "Weersterkte (%)",
   "inventorybuttons.config.weatherstory.duration": "Weerduur (seconden)",
-  "inventorybuttons.config.weatherstory.radius": "Weerstraal (blokken)"
+  "inventorybuttons.config.weatherstory.radius": "Weerstraal (blokken)",
+  "inventorybuttons.config.gsmod": "GS Mod daily-knoppen"
 }

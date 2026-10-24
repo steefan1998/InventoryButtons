@@ -15,6 +15,8 @@ public final class ButtonConfig {
     public static final ModConfigSpec.IntValue WEATHERSTORY_DURATION;
     public static final ModConfigSpec.IntValue WEATHERSTORY_RADIUS;
 
+    public static final ModConfigSpec.BooleanValue GSMOD;
+
     static {
         ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
 
@@ -51,6 +53,11 @@ public final class ButtonConfig {
             .translation("inventorybuttons.config.weatherstory.radius")
             .defineInRange("radius", 192, 16, 192);
         builder.pop();
+
+        GSMOD = builder
+            .comment("Show the daily reward and daily missions buttons when GS Mod is installed.")
+            .translation("inventorybuttons.config.gsmod")
+            .define("gsmodButtons", true);
 
         SPEC = builder.build();
     }
